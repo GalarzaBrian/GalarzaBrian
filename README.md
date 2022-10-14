@@ -1,5 +1,9 @@
-### Hi there 👋
+# ¡Hola, Mi nombre Brian Galarza 👋!
+## Soy desarrollador web FullStack JR
+### Amante de la tecnología y de crear experiencia interactiva en la web.
 
+ Soy de Corrientes, Argentina, tengo 26 años
+ 
 <!--
 **GalarzaBrian/GalarzaBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
