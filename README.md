@@ -4,6 +4,8 @@
 
  Soy de Corrientes, Argentina, tengo 26 años.
  ## :man_student: Perfil académico
+ * :books: Técnicatura superior en desarrollo web y aplicaciones digitales (Instituto Superior Politécnico Córdoba).
+ * :books: #YoProgramo Argentina programa.
  
  ## Tengo conocimientos en:
  ### Lenguajes de programación:
